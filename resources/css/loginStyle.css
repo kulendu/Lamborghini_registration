@@ -1,0 +1,43 @@
+body{
+    background-color: #F6C002;
+    text-align: center;
+    padding: 6% 10% 10% 7%;
+}
+h1{
+    font-family:  'Roboto', sans-serif;
+    color: #fff;
+}
+
+
+/* Lambo-logo  */
+.login-logo{
+    height: 10%;
+    width: 10%;
+    padding-bottom: 20px;
+}
+
+/* input area  */
+.forms{
+    padding-right: 40%;
+    padding-left: 40%;
+}
+.input-text{
+    color: #000;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+/* Social buttons  */
+h4{
+    font-family: 'Nunito', sans-serif;
+    color: #000;
+    padding-top: 40px;
+
+}
+
+.social-button{
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+}

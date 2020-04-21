@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* padding: 10% 5% 0 5%; */
+    margin-top: 20%;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: "Roboto", sans-serif;
+    color: #F6C002;
+
+}
+p{
+    font-family: "Nunito", sans-serif;
+}
+.container-1{
+    background-color: #fff;
+    padding: 5% 5% 5% 5%;
+    color: black;
+}
+.pic1{
+    height: 100%;
+    width: 100%;
+    box-shadow: black;
+}
+
+.container-2{
+    background-color: #fff;
+    padding: 5% 5% 5% 5%;
+    color: black;
+    margin-top: 10%;
+}
+.pic2{
+    height: 100%;
+    width: 100%;
+    box-shadow: black;
+}
+.container-3{
+    background-color: #fff;
+    padding: 5% 5% 5% 5%;
+    color: black;
+    margin-top: 10%;
+}
+.pic3{
+    height: 100%;
+    width: 100%;
+    box-shadow: black;
+}

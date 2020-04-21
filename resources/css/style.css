@@ -1,0 +1,52 @@
+body{
+    background-color: #F6C002;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 230px;
+    margin-top: -70px;
+}
+h4{
+    font-family: 'Nunito', sans-serif;
+}
+
+/* ////////////////// Navbar //////////////// */
+.navbar{
+    padding:40px 30px 0 30px;
+}
+
+.centered-nav-items{
+    text-align: center;
+    display: inline-block;
+    color: #000;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.search-nav-item{
+    padding-right: 60px;
+}
+/* ////////////////////////////////////////// */
+
+
+/* /////////////////// Center logo ///////////////// */
+.lambo-logo{
+    height: 75%;
+    width: 70%;
+    margin-top: -200px;
+}
+/* ///////////////////////////////////////////////// */
+
+footer{
+    padding-top: 25px;
+}
